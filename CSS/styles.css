@@ -3,6 +3,7 @@ nav {
 }
 .col{
     height: 100vh;
+    width: 50%;
 }
 footer {
     height: 8vh;
@@ -21,4 +22,10 @@ footer {
     margin-right: 0px;
     padding-right: 0xp;
     width: 100%;
+}
+.jumbotron {
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: solid black;
+    padding-right: 25%;
 }
