@@ -1,9 +1,24 @@
 nav {
-    height: 4rem;
+    height: 9vh;
 }
 .col{
-    height: 40rem;
+    height: 100vh;
 }
 footer {
-    height: 4rem;
+    height: 8vh;
+}
+/* .no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  
+    > .col,
+    > [class*="col-"] {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  } */
+#row { 
+    margin-right: 0px;
+    padding-right: 0xp;
+    width: 100%;
 }
